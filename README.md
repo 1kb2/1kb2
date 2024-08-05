@@ -1,8 +1,8 @@
 <a title="1kb2" href="https://github.com/1kb2" style="text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/175318287?v=4" width="70" alt="Profile Picture of 1kb2 (1kb2)" align="left">
+    <script src="https://tryhackme.com/badge/3250112"></script>
 </a>
 
- ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1kb2.png)
+![TryHackMe](https://tryhackme.com/badge/3250112)
 \
 \
 \
