@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/175318287?v=4" width="120" alt="Profile Picture of 1kb2 (1kb2)" align="left">
 </a>
 
-# ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1kb2.png)
+ ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1kb2.png)
 
 
 
