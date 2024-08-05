@@ -4,6 +4,8 @@
 
  ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1kb2.png)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### 𝞓𝗕𝗢𝗨𝗧 𝗠𝗘
 \
@@ -13,8 +15,10 @@
 \
 \
 \
-\
+\\
 ̷̛͚͈̰̙̙̗͛̌̋͒̎̏Ļ̸̲̓̉͑̏̆͘ȅ̵͉̜̬̱̤͔̖͕͒̈̾̏̓̚̕t̵͎͖̲̖͙̮̠̝̏̈́'̸̯̔̇̇̄͂̉s̶͙̲̫̀́͗̎̈̿͋́͑͠ ̴̻͓̙͇͈̜̖̃̃̑͗͑̾͠͝͝s̸̛͔͓̭̠̠̣̋̓͆̄̈̌̏̅͘e̶̟͐̀͌͐̎͒͜c̸͙̖̓͌̿̐̾û̵͔̪͍͎̫̈́́̃ȓ̸͙̙̟̥̾̉͋ę̶̙̗̣͙͕̮̿̄̒̓͗̂̆͗̕ ̴̡̧̦̞̳̻͉͔͐̔̄͜ţ̷̨͍̖̱͔̙̰̓̇͜͠͠h̷̨͚̲͙̟͓̘̉͑̃͝ͅe̵̤͌͋̿ ̷͖͓͇̗͓̲͘͝d̵̜̼͎̳͈̟͓̹̹̄̾́͂͑̈͝į̴̛̺̦͔̬͉͖̦̱g̸̢̤̮̟̼̭̺̮͖̑͗͆̉͝ǐ̶̯̜͖̆͝ţ̴͍͚̱̝̹̜̹̔̇̋̌̇̾̈́́͌͜a̵̤̜̗͎͖͔͓̫͗̓̄̈́̍͋̒̿̓͛ͅl̷͈̑ ̶̺̦̀̿͝w̷͈̘͑̊̈́̈́ö̷̡̱͕̺̙͔̭̪́͒̄͋̋͘r̴̢͍̥̞̳͔͖̈́̿̐̏̉͜ͅl̷̡͉͕̝͍̫̝͒̊̔̀ͅḑ̴͙̌͗ͅ ̶̼̗̈́͑́̀̃ṫ̸̺͂͆̾̊͝͝ỏ̶̗̥̯̖̮̭̝̠͈̼̆ğ̷̨̞͛͊͛̃͠e̴̻̰̖͕̞̅̓̌͑̈̚͠͝ṭ̷̢̻͉͑̚h̸͓̲̞̎ē̶̤̤̱̩͎̱̝̫̐͐̐̈́̌̿r̷̡̩͇͈̬̞̚!̵̦͌̒̍́̐͋̇͑͑̑
+
+<p>&nbsp;</p>
 
 ---
 <p align="center">
@@ -33,8 +37,9 @@
 </p>
 
 ---
+<p>&nbsp;</p>
 
-### Operating Systems
+### • Operating Systems
 - ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
   - Windows 10
   - Windows 11
@@ -42,24 +47,25 @@
   - Ubuntu
   - Kali Linux
 
-  
-## Technical Skills & Expertise
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+## → → → Technical Skills & Expertise
 
-### Programming Languages:
+### • Programming Languages:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 
-### Development Environments
+### • Development Environments
 
 ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-24aaf2.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Cloud Platforms
+### • Cloud Platforms
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717.svg?style=flat-square&logo=github&logoColor=white)
 
 
-#### ML / DL (AI, Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning):
+#### • ML / DL (AI, Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning):
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
 
@@ -67,11 +73,11 @@
 
 ---
 
-#### Browser Extensions:
+#### • Browser Extensions:
 ![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-red.svg?style=flat-square&logo=Google%20Chrome&logoColor=4285F4)
 ![Safari Extensions](https://img.shields.io/badge/Safari-Extensions-000000.svg?style=flat-square&logo=Safari&logoColor=fff)
 
-### Other Frameworks, Environments, Tools & Libraries:
+### • Other Frameworks, Environments, Tools & Libraries:
 
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
@@ -83,7 +89,7 @@
 ![Discord.PY](https://img.shields.io/badge/Discord.py-black?style=flat-square&logo=discord&logoColor=white)
 
 
-### Other Programming Languages:
+### • Other Programming Languages:
 
 ![LUA](https://img.shields.io/static/v1?label=LUA&message=LUA&color=white)
 
@@ -104,7 +110,7 @@
   </p>
 </details>
 
-#  GitHub Stats
+# •  GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=1kb2&hide_border=true&theme=transparent&v=42" />
