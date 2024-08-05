@@ -34,7 +34,7 @@
 </p>
 
 ---
-<p>&nbsp;</p>
+
 
 ### • Operating Systems
 - ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=white)
@@ -70,7 +70,7 @@
 
 ---
 
-#### • Browser Extensions:
+### • Browser Extensions:
 ![Chrome Extensions](https://img.shields.io/badge/Chrome-Extensions-red.svg?style=flat-square&logo=Google%20Chrome&logoColor=4285F4)
 ![Safari Extensions](https://img.shields.io/badge/Safari-Extensions-000000.svg?style=flat-square&logo=Safari&logoColor=fff)
 
