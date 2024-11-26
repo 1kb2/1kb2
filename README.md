@@ -2,7 +2,7 @@
     
 </a>
 
- ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1k2.png)
+ ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1kb2.png)
 
 <p>&nbsp;</p>
 
