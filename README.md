@@ -6,7 +6,7 @@
 
 **I am an Information Technology student specializing in offensive security, with a particular emphasis on web application penetration testing. Actively engaged in Capture The Flag (CTF) challenges, I have ranked in the top 1% on TryHackMe. I apply a comprehensive range of methodologies to identify, analyze, and mitigate security vulnerabilities.**
 
-<h2 align="center">Operations C2</h2>
+<h2 align="center"></h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Fight.+Overcome.+Conquer." alt="Typing SVG" /></a>
 </p>
