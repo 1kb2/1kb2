@@ -4,7 +4,7 @@
 <h1 align="center">🛡️ Offensive Security | 💻 Technology</h1>
 
 
-**I am an Information Technology student specializing in offensive security, with a particular emphasis on web application penetration testing. Actively engaged in Capture The Flag (CTF) challenges, I have ranked in the top 1% on TryHackMe. I apply a comprehensive range of methodologies to identify, analyze, and mitigate security vulnerabilities.**
+**I am an Information Technology student specializing in offensive security, with a particular emphasis on web application penetration testing. Actively engaged in Capture The Flag (CTF) challenges, in the top 1% on TryHackMe. I apply a comprehensive range of methodologies to identify, analyze, and mitigate security vulnerabilities.**
 
 <h2 align="center"></h2>
 <p align="center">
