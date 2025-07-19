@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/1kb2/1kb2.github.io/blob/afd21973c69ad44c32d7145d68388049a368d886/head.gif" alt="head" width="400" />
+<img src="https://github.com/1kb2/1kb2.github.io/blob/afd21973c69ad44c32d7145d68388049a368d886/head.gif" alt="head" width="300" />
 </div>
 <h1 align="center">🛡️ Offensive Security | 💻 Technology</h1>
 
