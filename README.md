@@ -1,10 +1,4 @@
-<a title="1kb2" href="https://github.com/1kb2" style="text-decoration: none;">
-    
-</a>
 
- ![](https://github.com/1kb2) ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1kb2.png)
-
-<p>&nbsp;</p>
 ![[head.gif]]
 
 <h1 align="center">🛡️ Offensive Security | 💻 Technology</h1>
@@ -28,6 +22,6 @@
 <div align="center">
     <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="Hack The Box Logo" width="200" />
     <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe Logo" width="200" />
-    <img src="https://tryhackme-badges.s3.amazonaws.com/1kb2.png" alt="TryHackMe Stats" width="200" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/1kb2.png" alt="TryHackMe Stats" width="500" />
 </div>
 
