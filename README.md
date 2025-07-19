@@ -1,6 +1,6 @@
-
-![[head.gif]]
-
+<div align="center">
+<img src="https://github.com/1kb2/1kb2.github.io/blob/afd21973c69ad44c32d7145d68388049a368d886/head.gif" alt="head" width="400" />
+</div>
 <h1 align="center">🛡️ Offensive Security | 💻 Technology</h1>
 
 
@@ -24,5 +24,5 @@
     <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe Logo" width="200" />
     <br>
     <img src="https://tryhackme-badges.s3.amazonaws.com/1kb2.png" alt="TryHackMe Stats" width="300" />
-</div>
+
 
